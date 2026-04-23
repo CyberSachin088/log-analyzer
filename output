@@ -1,0 +1,6 @@
+--- Log Analysis Report ---
+Failed Login Attempts: 4
+Warnings: 1
+Errors: 5
+⚠️ Possible Brute Force Attack Detected!
+suspicious_users = ["admin", "root"]
